@@ -24,8 +24,9 @@ Atom,Chrome React,JSX etc.
 | No.  | Task  |Details   | Progress  | Comment  |
 | ------------ | ------------ | ------------ | ------------ | ------------ |
 | 1  |React  |Learn in Bilibili online course[link](https://www.bilibili.com/video/av37668737?from=search&seid=5639650066295503629 "link") |on progress |-|
-| 2 |React  |Learn with this book |on progress |-|
-| 3 | Node.js | Learn in Bilibili online course  [link](https://www.bilibili.com/video/av75396447?from=search&seid=5639650066295503629 "link") |  to do |- |
-| 4 | Webpack | Learn in Bilibili online course [link](https://www.bilibili.com/video/av51174155?from=search&seid=5639650066295503629 "link")  |  to do |- |
+| 3 |React  |Notes:https://jiaozi1122.com/ |on progress |-|
+| 4 |React  |Learn with this book |on progress |-|
+| 5 | Node.js | Learn in Bilibili online course  [link](https://www.bilibili.com/video/av75396447?from=search&seid=5639650066295503629 "link") |  to do |- |
+| 6 | Webpack | Learn in Bilibili online course [link](https://www.bilibili.com/video/av51174155?from=search&seid=5639650066295503629 "link")  |  to do |- |
 
 To be continued...
